@@ -1,3 +1,6 @@
+# 🎮 Dodge the Fall  [![Download](https://img.shields.io/badge/Download-Play%20Now-brightgreen)](https://github.com/TUSHARKADAM2005 /dodge-the-fall/releases/tag/v1.0)  > Windows | No install needed | Unzip and play
+
+
 # 🎮 Dodge the Fall — 2D Unity Game
 
 A fast-paced 2D arcade survival game built in Unity where you dodge falling enemies for as long as possible and chase a high score.
